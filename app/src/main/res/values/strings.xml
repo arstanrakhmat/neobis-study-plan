@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="happy_birthday_ben">Happy Birthday, Ben!</string>
+    <string name="from_arstanbek">From, Arstanbek</string>
+    <string name="the_krusty_krab">The Krusty Krab</string>
+    <string name="the_fast_food_in_bikini_bottom">The fast-food in Bikini Bottom</string>
+    <string name="menu_krubsburger_only">Menu: Krubsburger only</string>
+    <string name="the_best_fast_food_in_bikini_botom">The best fast-food in Bikini Botom</string>
+    <string name="adress_bikini_bottom_9a">Adress: Bikini Bottom 9A</string>
+</resources>
